@@ -1,0 +1,12 @@
+# C Array Sorting Program
+
+This repository contains a simple C program designed to demonstrate array sorting and printing. The program sorts an array of integers in ascending order and then prints the sorted array.
+
+## Features
+
+- Sorts an array of integers using a simple bubble sort algorithm.
+- Prints the sorted array to the console.
+
+## How to Compile
+
+To compile the program, navigate to the directory containing the source code and run make depending on the system. This project uses gcc on windows 11 with a simple makefile that is included in the project.
